@@ -49,6 +49,19 @@ footer{
 	padding: 0 50px;
 }
 
+.jumbotron .form-control{
+	height: 69px;
+	font-size: 36px;
+}
+
+.modal-dialog{
+	position: absolute;
+	left: 50%;
+	margin-left: -304px;
+	top: 50%;
+	margin-top: -173px;
+}
+
 .modal-content iframe{
 	margin-top: 15px;
 	margin-bottom: 10px;
